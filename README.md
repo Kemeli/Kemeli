@@ -12,5 +12,5 @@
 
 ##
  
- 🔭 I’m currently working on back-end C language
+ 🔭 I’m currently working on back-end C language for school
  🌱 I’m currently learning C, linux and vue.js
