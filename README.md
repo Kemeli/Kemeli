@@ -1,28 +1,14 @@
 ### Hi there, I am Kemeli 👋
 
-<div align="center">
-  <a href="https://github.com/Kemeli">
+
+<div align="center"><br>
+   <a href="https://github.com/Kemeli">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kemeli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-
-<div style="display: inline_block"><br>
-   <img align="center" alt="Kemeli-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
-   <img align="center" alt="Kemeli-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-plain.svg">
-</div>
-
-##
-
-<div> 
-  <a href="https://www.linkedin.com/in/kemeli-nogueira-431819111/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div align="center"><br>
+  <a href="https:////www.linkedin.com/in/kemeli-nogueira-431819111" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:kdnogueira791@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://958116506493911070" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-    
-
-
-
 </div>
-
- 
 
 
 
