@@ -13,4 +13,4 @@
 ##
  
  🔭 I’m currently working on back-end C language for school
- 🌱 I’m currently learning C, linux, SQL and vue.js
+ 🌱 I’m currently learning C, linux, SQL and kotlin
